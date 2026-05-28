@@ -1,1 +1,2 @@
-# automatic-dollop
+# hi
+This is a bot for conjuguemos :)
